@@ -24,8 +24,3 @@ I also code weird projects and stuff such as Roblox Development, Scripts, Moddin
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sleeper-developer&cache_seconds=14400&theme=nightowl&layout=compact)
 
 </div>
-
-## stuff
-
-<p align="center"><img width="200px" align="center" alt="text text 1" src="./assets/cat.gif"></p>
-<p align="center"><img width="400px" align="center" alt="text text 2" src="./assets/sakuyafloss.gif"></p>
