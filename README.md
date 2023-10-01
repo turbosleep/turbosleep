@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sleeper-developer&bg_color=30,331378,090c4a&title_color=a074fc&text_color=aaa&show_icons=true&cache_seconds=14400&include_all_commits=true&show=reviews,discussions_started,discussions_answered">
 
-hello! my nickname is sleeper or my name is **`turbo`** ! I create normal projects and stuff, if you wanna contact me add me on *`softsleeper`*
+hello! my nickname is sleeper or my name is **`turbo`** ! I create normal projects and stuff, if you wanna contact me add me on *`_sleeper_`*
 
 I also code weird projects and stuff such as Roblox Development, Scripts, Modding, etc. or contributes to something :tm:...
 
