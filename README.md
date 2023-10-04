@@ -14,6 +14,7 @@ I also code weird projects and stuff such as Roblox Development, Scripts, Moddin
 [![HTML](https://img.shields.io/badge/-html-E34F26?&style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
 [![Lua](https://img.shields.io/badge/lua-%2300599C.svg?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## statistics
 
