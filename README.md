@@ -4,7 +4,9 @@
 
 hello! my nickname is sleeper or my name is **`turbo`** ! I create normal projects and stuff, if you wanna contact me add me on *`_sleeper_`*
 
-I also code weird projects and stuff such as Roblox Development, Scripts, Modding, etc. or contributes to something :tm:...
+I also code weird projects and stuff such as Roblox Development, Scripts, Modding, etc. or contributes to something
+
+I like Chemistry, Science, Programming, Rain, History, and much more! I mostly don't go on GitHub unless for something important!
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=turbosleep&color=blueviolet&style=flat-square)
 
