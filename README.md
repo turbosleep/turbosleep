@@ -3,9 +3,9 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=turbosleep&bg_color=30,331378,090c4a&title_color=a074fc&text_color=aaa&show_icons=true&cache_seconds=14400&include_all_commits=true&show=reviews,discussions_started,discussions_answered">
 
 hello! my nickname is sleeper or my name is **`turbo`** ! I create normal projects and stuff, if you wanna contact me add me on *`_sleeper_`*
-
 I also code weird projects and stuff such as Roblox Development, Scripts, Modding, etc. or contributes to something
-
+I only open source my projects If I don't like it or I'm disgusting with it
+I don't really program that much.
 I like Chemistry, Science, Programming, Rain, History, and much more! I mostly don't go on GitHub unless for something important!
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=turbosleep&color=blueviolet&style=flat-square)
